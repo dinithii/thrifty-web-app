@@ -8,8 +8,11 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        title: ['Lexend','sans-serif'],
+        title: ['Schoolbell','sans-serif'],
       },
+      /*fontFamily: {
+        title: ['Lexend','sans-serif'],
+      },*/
       colors: {
         primary: '#A5B68D',
         secondary: '#F0F4F8',
