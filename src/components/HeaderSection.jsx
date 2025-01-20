@@ -1,7 +1,7 @@
 import React from "react";
 import { Menu, LogOut } from 'react-feather';
 
-const HeaderSection = () => {
+const Header = () => {
     return (
         <header className="bg-primary px-4 py-3 flex items-center justify-between relative">
           <button 
@@ -28,4 +28,4 @@ const HeaderSection = () => {
       );
     };
 
-export default HeaderSection;
+export default Header;
